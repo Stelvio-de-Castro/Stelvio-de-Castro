@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Stelvio-de-Castro
-- 👀 I’m interested in C++, I like Arduino
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Arduino´s Project
+-  I'm learning Python
+-  Interested in computer networks
 
 
 <!---
