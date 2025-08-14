@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stelvio-de-Castro
--  I'm learning Python
 -  Interested in computer networks
+-  SD-WAN ASPIRANT
 
 
 <!---
